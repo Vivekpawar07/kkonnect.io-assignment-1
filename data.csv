@@ -1,0 +1,138 @@
+,index,Manufactures_name,location,Capibality,Material_Type,Part_Size,Complexity,Cost Range
+0,0,"a-1 precision, inc. ","8014 ne 19th court, vancouver, washington, 98665, united states",machining,aluminum,large,moderate,1205.0
+1,0,"a-1 precision, inc. ","8014 ne 19th court, vancouver, washington, 98665, united states",machining,stainless steel,thin,complex,232.5
+2,0,"a-1 precision, inc. ","8014 ne 19th court, vancouver, washington, 98665, united states",machining,brass,thin,simple,135.0
+3,1,spargo machine products ,"6 gear drive, terryville, connecticut, 06786, united states",machining,aluminum,small,complex,905.0
+4,1,spargo machine products ,"6 gear drive, terryville, connecticut, 06786, united states",machining,stainless steel,large,complex,1605.0
+5,2,"keystone machine, inc. ","115 newark street, littlestown, pennsylvania, 17340, united states",machining,aluminum,small,complex,905.0
+6,2,"keystone machine, inc. ","115 newark street, littlestown, pennsylvania, 17340, united states",machining,stainless steel,small,complex,955.0
+7,2,"keystone machine, inc. ","115 newark street, littlestown, pennsylvania, 17340, united states",machining,brass,large,simple,1480.0
+8,3,"d & d precision machine co., inc. ","395 plymouth street, middleboro, massachusetts, 02346, united states",machining,aluminum,medium,moderate,930.0
+9,4,hilltop technology laboratory  ,"51 parker, irvine, california, 92618, united states",machining,aluminum,thin,simple,131.5
+10,5,tr manufacturing ,"1106 s. cowen st, garrett, indiana, 46738, united states",3d printing,aluminum,small,simple,405.0
+11,5,tr manufacturing ,"1106 s. cowen st, garrett, indiana, 46738, united states",fabrication,aluminum,large,moderate,1205.0
+12,5,tr manufacturing ,"1106 s. cowen st, garrett, indiana, 46738, united states",machining,aluminum,medium,complex,1180.0
+13,5,tr manufacturing ,"1106 s. cowen st, garrett, indiana, 46738, united states",3d printing,stainless steel,thin,complex,232.5
+14,5,tr manufacturing ,"1106 s. cowen st, garrett, indiana, 46738, united states",fabrication,stainless steel,small,moderate,705.0
+15,5,tr manufacturing ,"1106 s. cowen st, garrett, indiana, 46738, united states",machining,stainless steel,thin,moderate,182.5
+16,5,tr manufacturing ,"1106 s. cowen st, garrett, indiana, 46738, united states",3d printing,brass,thin,complex,235.0
+17,5,tr manufacturing ,"1106 s. cowen st, garrett, indiana, 46738, united states",fabrication,brass,small,moderate,830.0
+18,5,tr manufacturing ,"1106 s. cowen st, garrett, indiana, 46738, united states",machining,brass,small,moderate,830.0
+19,5,tr manufacturing ,"1106 s. cowen st, garrett, indiana, 46738, united states",3d printing,copper,small,complex,1055.0
+20,5,tr manufacturing ,"1106 s. cowen st, garrett, indiana, 46738, united states",fabrication,copper,small,complex,1055.0
+21,5,tr manufacturing ,"1106 s. cowen st, garrett, indiana, 46738, united states",machining,copper,small,moderate,805.0
+22,5,tr manufacturing ,"1106 s. cowen st, garrett, indiana, 46738, united states",3d printing,titanium,small,moderate,1205.0
+23,5,tr manufacturing ,"1106 s. cowen st, garrett, indiana, 46738, united states",fabrication,titanium,medium,moderate,2030.0
+24,5,tr manufacturing ,"1106 s. cowen st, garrett, indiana, 46738, united states",machining,titanium,large,moderate,2855.0
+25,6,wh bagshaw co inc ,"1 pine st. ext, new hampshire, 03061, united states",machining,aluminum,small,complex,905.0
+26,6,wh bagshaw co inc ,"1 pine st. ext, new hampshire, 03061, united states",machining,stainless steel,medium,simple,780.0
+27,7,"northrop sales, inc ","p.o. box 2907, ponte vedra, florida, 32004, united states",fabrication,aluminum,large,complex,1455.0
+28,7,"northrop sales, inc ","p.o. box 2907, ponte vedra, florida, 32004, united states",machining,aluminum,small,complex,905.0
+29,7,"northrop sales, inc ","p.o. box 2907, ponte vedra, florida, 32004, united states",sheet metal,aluminum,small,complex,905.0
+30,7,"northrop sales, inc ","p.o. box 2907, ponte vedra, florida, 32004, united states",fabrication,stainless steel,thin,complex,232.5
+31,7,"northrop sales, inc ","p.o. box 2907, ponte vedra, florida, 32004, united states",machining,stainless steel,small,complex,955.0
+32,7,"northrop sales, inc ","p.o. box 2907, ponte vedra, florida, 32004, united states",sheet metal,stainless steel,large,complex,1605.0
+33,7,"northrop sales, inc ","p.o. box 2907, ponte vedra, florida, 32004, united states",fabrication,brass,small,complex,1080.0
+34,7,"northrop sales, inc ","p.o. box 2907, ponte vedra, florida, 32004, united states",machining,brass,thin,moderate,185.0
+35,7,"northrop sales, inc ","p.o. box 2907, ponte vedra, florida, 32004, united states",sheet metal,brass,small,complex,1080.0
+36,8,"mckenzie cnc, inc. ","2254 nw campus dr, estacada, oregon, 97023, united states",machining,aluminum,medium,complex,1180.0
+37,8,"mckenzie cnc, inc. ","2254 nw campus dr, estacada, oregon, 97023, united states",machining,stainless steel,small,complex,955.0
+38,9,"4th axis machine and design, inc. ","6575 labeaux ave ne, minnesota, 55301, united states",machining,aluminum,small,complex,905.0
+39,10,west michigan tube & wire forming ,"2724 9th street, p o box 4589, muskegon, michigan, 49444, united states",fabrication,aluminum,small,complex,905.0
+40,10,west michigan tube & wire forming ,"2724 9th street, p o box 4589, muskegon, michigan, 49444, united states",machining,aluminum,small,moderate,655.0
+41,10,west michigan tube & wire forming ,"2724 9th street, p o box 4589, muskegon, michigan, 49444, united states",sheet metal,aluminum,small,complex,905.0
+42,10,west michigan tube & wire forming ,"2724 9th street, p o box 4589, muskegon, michigan, 49444, united states",fabrication,stainless steel,small,moderate,705.0
+43,10,west michigan tube & wire forming ,"2724 9th street, p o box 4589, muskegon, michigan, 49444, united states",machining,stainless steel,thin,complex,232.5
+44,10,west michigan tube & wire forming ,"2724 9th street, p o box 4589, muskegon, michigan, 49444, united states",sheet metal,stainless steel,large,complex,1605.0
+45,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",3d printing,aluminum,small,simple,405.0
+46,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",fabrication,aluminum,large,complex,1455.0
+47,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",machining,aluminum,thin,complex,231.5
+48,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",sheet metal,aluminum,medium,moderate,930.0
+49,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",3d printing,stainless steel,small,moderate,705.0
+50,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",fabrication,stainless steel,small,complex,955.0
+51,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",machining,stainless steel,small,moderate,705.0
+52,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",sheet metal,stainless steel,thin,moderate,182.5
+53,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",3d printing,brass,small,simple,580.0
+54,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",fabrication,brass,large,simple,1480.0
+55,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",machining,brass,small,complex,1080.0
+56,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",sheet metal,brass,large,complex,1980.0
+57,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",3d printing,wood,small,simple,455.0
+58,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",fabrication,wood,small,simple,455.0
+59,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",machining,wood,small,complex,955.0
+60,11,machine-pro technologies ,"1321 west market street, celina, ohio, 45822, united states",sheet metal,wood,thin,complex,232.5
+61,12,mackenzie machine ,"171 mattakeesett street, unit 2, pembroke, massachusetts, 02359, united states",fabrication,aluminum,small,moderate,655.0
+62,12,mackenzie machine ,"171 mattakeesett street, unit 2, pembroke, massachusetts, 02359, united states",machining,aluminum,small,simple,405.0
+63,12,mackenzie machine ,"171 mattakeesett street, unit 2, pembroke, massachusetts, 02359, united states",sheet metal,aluminum,thin,complex,231.5
+64,12,mackenzie machine ,"171 mattakeesett street, unit 2, pembroke, massachusetts, 02359, united states",fabrication,stainless steel,small,complex,955.0
+65,12,mackenzie machine ,"171 mattakeesett street, unit 2, pembroke, massachusetts, 02359, united states",machining,stainless steel,thin,complex,232.5
+66,12,mackenzie machine ,"171 mattakeesett street, unit 2, pembroke, massachusetts, 02359, united states",sheet metal,stainless steel,large,moderate,1355.0
+67,12,mackenzie machine ,"171 mattakeesett street, unit 2, pembroke, massachusetts, 02359, united states",fabrication,brass,large,simple,1480.0
+68,12,mackenzie machine ,"171 mattakeesett street, unit 2, pembroke, massachusetts, 02359, united states",machining,brass,thin,complex,235.0
+69,12,mackenzie machine ,"171 mattakeesett street, unit 2, pembroke, massachusetts, 02359, united states",sheet metal,brass,small,complex,1080.0
+70,12,mackenzie machine ,"171 mattakeesett street, unit 2, pembroke, massachusetts, 02359, united states",fabrication,titanium,thin,moderate,192.5
+71,12,mackenzie machine ,"171 mattakeesett street, unit 2, pembroke, massachusetts, 02359, united states",machining,titanium,medium,complex,2280.0
+72,12,mackenzie machine ,"171 mattakeesett street, unit 2, pembroke, massachusetts, 02359, united states",sheet metal,titanium,large,moderate,2855.0
+73,13,sk international ,"46918 liberty dr, michigan, 48393, united states",3d printing,aluminum,thin,complex,231.5
+74,13,sk international ,"46918 liberty dr, michigan, 48393, united states",fabrication,aluminum,medium,simple,680.0
+75,13,sk international ,"46918 liberty dr, michigan, 48393, united states",machining,aluminum,thin,moderate,181.5
+76,13,sk international ,"46918 liberty dr, michigan, 48393, united states",sheet metal,aluminum,large,complex,1455.0
+77,13,sk international ,"46918 liberty dr, michigan, 48393, united states",3d printing,stainless steel,small,simple,455.0
+78,13,sk international ,"46918 liberty dr, michigan, 48393, united states",fabrication,stainless steel,thin,simple,132.5
+79,13,sk international ,"46918 liberty dr, michigan, 48393, united states",machining,stainless steel,small,complex,955.0
+80,13,sk international ,"46918 liberty dr, michigan, 48393, united states",sheet metal,stainless steel,large,complex,1605.0
+81,13,sk international ,"46918 liberty dr, michigan, 48393, united states",3d printing,brass,medium,moderate,1280.0
+82,13,sk international ,"46918 liberty dr, michigan, 48393, united states",fabrication,brass,thin,simple,135.0
+83,13,sk international ,"46918 liberty dr, michigan, 48393, united states",machining,brass,small,complex,1080.0
+84,13,sk international ,"46918 liberty dr, michigan, 48393, united states",sheet metal,brass,thin,moderate,185.0
+85,14,zeltwanger cnc  ,"4947 fargo street , south carolina, 29418, united states",machining,aluminum,small,moderate,655.0
+86,14,zeltwanger cnc  ,"4947 fargo street , south carolina, 29418, united states",machining,stainless steel,thin,complex,232.5
+87,14,zeltwanger cnc  ,"4947 fargo street , south carolina, 29418, united states",machining,brass,large,complex,1980.0
+88,14,zeltwanger cnc  ,"4947 fargo street , south carolina, 29418, united states",machining,copper,small,complex,1055.0
+89,14,zeltwanger cnc  ,"4947 fargo street , south carolina, 29418, united states",machining,titanium,small,moderate,1205.0
+90,15,t & t  machine inc. ,"892 callendar blvd, painesville, ohio, 44077, united states",machining,aluminum,large,simple,955.0
+91,15,t & t  machine inc. ,"892 callendar blvd, painesville, ohio, 44077, united states",machining,stainless steel,small,complex,955.0
+92,15,t & t  machine inc. ,"892 callendar blvd, painesville, ohio, 44077, united states",machining,brass,small,moderate,830.0
+93,16,marshall metal products inc ,"13219 15 mile road, michigan, 49068, united states",fabrication,aluminum,small,moderate,655.0
+94,16,marshall metal products inc ,"13219 15 mile road, michigan, 49068, united states",machining,aluminum,small,complex,905.0
+95,16,marshall metal products inc ,"13219 15 mile road, michigan, 49068, united states",sheet metal,aluminum,small,complex,905.0
+96,16,marshall metal products inc ,"13219 15 mile road, michigan, 49068, united states",fabrication,stainless steel,large,simple,1105.0
+97,16,marshall metal products inc ,"13219 15 mile road, michigan, 49068, united states",machining,stainless steel,small,complex,955.0
+98,16,marshall metal products inc ,"13219 15 mile road, michigan, 49068, united states",sheet metal,stainless steel,small,complex,955.0
+99,17,patriot manufacturing ,"45345 five mile rd., plymouth, michigan, 48170, united states",machining,aluminum,medium,simple,680.0
+100,17,patriot manufacturing ,"45345 five mile rd., plymouth, michigan, 48170, united states",sheet metal,aluminum,thin,complex,231.5
+101,17,patriot manufacturing ,"45345 five mile rd., plymouth, michigan, 48170, united states",machining,stainless steel,small,moderate,705.0
+102,17,patriot manufacturing ,"45345 five mile rd., plymouth, michigan, 48170, united states",sheet metal,stainless steel,large,moderate,1355.0
+103,17,patriot manufacturing ,"45345 five mile rd., plymouth, michigan, 48170, united states",machining,brass,small,complex,1080.0
+104,17,patriot manufacturing ,"45345 five mile rd., plymouth, michigan, 48170, united states",sheet metal,brass,thin,complex,235.0
+105,18,"qingdao jinghong precision co., ltd. (usa) ","donghuangbu xiazhuang, chengyang district, qingdao, 山东 (shandong), 266107, china",machining,aluminum,small,complex,905.0
+106,18,"qingdao jinghong precision co., ltd. (usa) ","donghuangbu xiazhuang, chengyang district, qingdao, 山东 (shandong), 266107, china",machining,stainless steel,small,simple,455.0
+107,18,"qingdao jinghong precision co., ltd. (usa) ","donghuangbu xiazhuang, chengyang district, qingdao, 山东 (shandong), 266107, china",machining,brass,small,moderate,830.0
+108,18,"qingdao jinghong precision co., ltd. (usa) ","donghuangbu xiazhuang, chengyang district, qingdao, 山东 (shandong), 266107, china",machining,copper,small,moderate,805.0
+109,18,"qingdao jinghong precision co., ltd. (usa) ","donghuangbu xiazhuang, chengyang district, qingdao, 山东 (shandong), 266107, china",machining,titanium,small,moderate,1205.0
+110,19,ha industries ,"5510 gatewood dr, michigan, 48310, united states",fabrication,aluminum,small,simple,405.0
+111,19,ha industries ,"5510 gatewood dr, michigan, 48310, united states",machining,aluminum,large,complex,1455.0
+112,19,ha industries ,"5510 gatewood dr, michigan, 48310, united states",fabrication,stainless steel,large,simple,1105.0
+113,19,ha industries ,"5510 gatewood dr, michigan, 48310, united states",machining,stainless steel,small,moderate,705.0
+114,20,next level mfg ,"6778 18th avenue, jenison, michigan, 49428, united states",machining,aluminum,large,moderate,1205.0
+115,20,next level mfg ,"6778 18th avenue, jenison, michigan, 49428, united states",machining,stainless steel,large,simple,1105.0
+116,21,starland metals ,"59917 236th st., gibbon, minnesota, 55335, united states",fabrication,aluminum,small,complex,905.0
+117,21,starland metals ,"59917 236th st., gibbon, minnesota, 55335, united states",machining,aluminum,medium,moderate,930.0
+118,21,starland metals ,"59917 236th st., gibbon, minnesota, 55335, united states",sheet metal,aluminum,large,simple,955.0
+119,21,starland metals ,"59917 236th st., gibbon, minnesota, 55335, united states",fabrication,stainless steel,small,simple,455.0
+120,21,starland metals ,"59917 236th st., gibbon, minnesota, 55335, united states",machining,stainless steel,large,complex,1605.0
+121,21,starland metals ,"59917 236th st., gibbon, minnesota, 55335, united states",sheet metal,stainless steel,large,simple,1105.0
+122,22,kooima company ,"2638 310th st, po box 156, rock valley, iowa, 51247, united states",fabrication,aluminum,small,complex,905.0
+123,22,kooima company ,"2638 310th st, po box 156, rock valley, iowa, 51247, united states",machining,aluminum,small,moderate,655.0
+124,22,kooima company ,"2638 310th st, po box 156, rock valley, iowa, 51247, united states",sheet metal,aluminum,thin,simple,131.5
+125,22,kooima company ,"2638 310th st, po box 156, rock valley, iowa, 51247, united states",fabrication,stainless steel,large,complex,1605.0
+126,22,kooima company ,"2638 310th st, po box 156, rock valley, iowa, 51247, united states",machining,stainless steel,small,complex,955.0
+127,22,kooima company ,"2638 310th st, po box 156, rock valley, iowa, 51247, united states",sheet metal,stainless steel,large,complex,1605.0
+128,23,hick's lake grinding ,"14883 90th avenue, evart, michigan, 49631, united states",fabrication,aluminum,medium,moderate,930.0
+129,23,hick's lake grinding ,"14883 90th avenue, evart, michigan, 49631, united states",machining,aluminum,thin,moderate,181.5
+130,23,hick's lake grinding ,"14883 90th avenue, evart, michigan, 49631, united states",sheet metal,aluminum,thin,moderate,181.5
+131,23,hick's lake grinding ,"14883 90th avenue, evart, michigan, 49631, united states",fabrication,stainless steel,thin,simple,132.5
+132,23,hick's lake grinding ,"14883 90th avenue, evart, michigan, 49631, united states",machining,stainless steel,large,moderate,1355.0
+133,23,hick's lake grinding ,"14883 90th avenue, evart, michigan, 49631, united states",sheet metal,stainless steel,small,moderate,705.0
+134,23,hick's lake grinding ,"14883 90th avenue, evart, michigan, 49631, united states",fabrication,wood,large,complex,1605.0
+135,23,hick's lake grinding ,"14883 90th avenue, evart, michigan, 49631, united states",machining,wood,large,complex,1605.0
+136,23,hick's lake grinding ,"14883 90th avenue, evart, michigan, 49631, united states",sheet metal,wood,small,moderate,705.0
