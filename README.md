@@ -1,6 +1,6 @@
 # kkonnect.io-assignment-1
 KKonnect.io assignment 1
-All codes are related to Cost Estimation , Webscraping and supplier matching are in the assignment1.ipybm file.
+All codes are related to Cost Estimation , Webscraping and supplier matching are in the assignment1.ipynb file.
 ### Cost Estimation Algorithm:-
 
 2.3 Methodology/Algorithm:-
